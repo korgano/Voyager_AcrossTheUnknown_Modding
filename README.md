@@ -3,8 +3,10 @@ Resources for modding [Star Trek: Voyager - Across the Unknown](https://store.st
 
 Voyager - Across the Unknown is an Unreal Engine 5.6 game. The demo version is unencrypted, but the final game may be.
 
-## What can bemodded
-At this point, only `DT_Resources` under `BetterStartCap\STVoyager\Content\STVoyager\GameResources` is proven to be moddable. Other mods made with [retoc](https://github.com/trumank/retoc) build `ed328e5` do not cause crashes, but may or may not function.
+## What can be modded
+At this point, files in path `STVoyager\Content\STVoyager\Tech` do not appear to be moddable in the demo.
+
+Other mods made with [retoc](https://github.com/trumank/retoc) build `ed328e5` do not cause crashes, but may or may not function.
 
 ## How to Install Mods
 - Download zipped mods.
