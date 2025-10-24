@@ -20,7 +20,7 @@ Other mods made with [retoc](https://github.com/trumank/retoc) build `ed328e5` d
 - Voyager mappings file
 
 ## Tutorials
-- 
+[Check the repo's wiki for details on how to mod the game.](https://github.com/korgano/Voyager_AcrossTheUnknown_Modding/wiki)
 
 ## Credits and Thanks
 - Gamexcite for the game and not locking down the demo
